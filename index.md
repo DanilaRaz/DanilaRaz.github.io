@@ -11,3 +11,6 @@
 
 ### Completed tasks
 https://github.com/DanilaRaz/FancyCalc/invitations
+https://github.com/DanilaRaz/PadawansTask1/invitations
+https://github.com/DanilaRaz/PadawansTask2/invitations
+https://github.com/DanilaRaz/PadawansTask3/invitations
