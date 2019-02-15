@@ -10,3 +10,4 @@
 **Computer security**
 
 ### Completed tasks
+https://github.com/DanilaRaz/FancyCalc/invitations
