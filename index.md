@@ -10,10 +10,10 @@
 **Computer security**
 
 ### Completed tasks
-https://github.com/DanilaRaz/FancyCalc/invitations
+[FancyCalc](https://github.com/DanilaRaz/FancyCalc/invitations)
 
-https://github.com/DanilaRaz/PadawansTask1/invitations
+[PadawansTask1](https://github.com/DanilaRaz/PadawansTask1/invitations)
 
-https://github.com/DanilaRaz/PadawansTask2/invitations
+[PadawansTask2](https://github.com/DanilaRaz/PadawansTask2/invitations)
 
-https://github.com/DanilaRaz/PadawansTask3/invitations
+[PadawansTask3](https://github.com/DanilaRaz/PadawansTask3/invitations)
